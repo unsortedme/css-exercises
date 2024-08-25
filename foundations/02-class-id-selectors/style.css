@@ -1,3 +1,4 @@
+/* my attempt
 p{
     background-color: lightpink;
     font-family: Verdana, 'DejaVu Sans', sans-serif;
@@ -5,7 +6,7 @@ p{
 
 #element2 {
     font-size: 36px; 
-    color: blue;
+    color: #0000ff;
 }
 
 #element3 {
@@ -16,5 +17,24 @@ p{
     background-color: lightgreen; 
     font-weight: bold; 
     font-size: 24px;
+} */
+
+.odd-element {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.font-size-change {
+    font-size: 24px;
+}
+
+#element2 {
+    font-size: 36px; 
+    color: #0000ff;
+}
+
+#element4 {
+    background-color: lightgreen; 
+    font-weight: bold; 
 }
     
